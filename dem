@@ -1,0 +1,104 @@
+<html dir="ltr">
+
+<head>
+<title> This is document title</title>
+</head>
+
+
+<body bgcolor=fff000>
+<marquee> this is basic ex</marquee>
+
+<p><center><big><b>Dogs</b></big></center><br/>
+
+<dl>
+<dt> <b>DOG- </b></dt>
+<dd> a human's best friend!</dd>
+</dl>
+
+
+<ul type="square">
+<li><b> Normal </b></li>
+
+<ol type="I" start="1">
+<li> lab </li>
+<li> german shepard </li>
+</ol>
+
+<li><b> Aggresive </b></li>
+
+<ol type="I" start="3">
+<li> boxer </li>
+<li> bulldog </li>
+</ol>
+</ul>
+
+<table border="5"  width="400" cellspacing="3" cellpadding="10" >
+<caption align="top"><big><b>Different breeds based on weather!!</big></b></caption>
+
+<tr>
+<th bgcolor="f08080"> Summer dogs</th>
+<th bgcolor="f08080">Winter dogs</th>
+</tr>
+
+<tr>
+<td bgcolor="fffffff"> lab</td>
+<td bgcolor="ffffff">husky</td>
+</tr>
+
+<td bgcolor="ffffff"> boxer </td>
+<td bgcolor="ffffff">st.bernard</td>
+</tr>
+
+
+<b>Click to see images</b><a href="https://www.google.com/search?q=dog+breed&client=ubuntu&hs=ORz&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjlv-bek4bgAhXFq48KHREGB9UQ_AUIDigB&biw=1170&bih=567"> here</a>
+
+<p> simple image insert</p>
+<img src="/home/section1/2016cse054/index.jpeg" usemap="#workmap"/>
+<map name="workmap">
+<area shape="rect" coords="70,70,100,100" alt="eyes" href="https://www.google.com/search?q=dogs+eyes&client=ubuntu&hs=DiQ&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj5oaGHkpDgAhVFwI8KHZX4AU8Q_AUIDigB&biw=1301&bih=670">
+
+<body style="background-image:url('/home/section1/2016cse054/index2.jpeg');background-position: center;background-repeat: no-repeat;background-size: cover;">
+
+<h2> Background image</h2>
+<p style="background-image:url('/home/section1/2016cse054/index2.jpeg');">
+
+<p> setting image alignment </p>
+<a href="https://www.google.com/search?q=dog&client=ubuntu&hs=Ch5&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiz4NqHjZDgAhWbfCsKHVwqDvcQ_AUIDigB&biw=1301&bih=670#imgrc=_vUAT67U1HGFHM:">
+<img src="/home/section1/2016cse054/index1.jpeg" alt="image as link" style="float:left; width:42px;border:0;" border="3" align="middle"/>
+
+<h3 title="labrador">Place ur mouse pointer here to knw which is the best dog breed.
+</h3>
+You <ins> i m i m </ins> <strike>your</strike><big> assignment</big><del> on</del><small> time</small>.<br/>
+<del>thanks</del><br/>
+
+<h4>About<span style="color:red"> Labrador</span> Dog</h4>
+<p>Adi</p>
+<div style="background-color:black;color:white;padding:20px;">
+<h5>Labrador </h5>
+<p> he Labrador Retriever was bred to be both a friendly companion and a useful working dog breed. Historically, he earned his keep as a fisherman’s helper: hauling nets, fetching ropes, and retrieving fish from the chilly North Atlantic. Today’s Labrador Retriever is as good-natured and hard working as his ancestors, and he’s America’s most popular breed. These days the Lab works as a retriever for hunters, assistance dog to the handicapped, show competitor, and search and rescue dog, among other canine jobs.</p>
+</div>
+<a href="/home/section1/2016cse054/pg2.html">next page</a>
+<table border="1">
+<tr>
+<th> column1</th>
+<th> column2</th>
+<th> column3</th>
+</tr>
+<tr>
+<td rowspan="2">row1 cell1</td>
+<td> row1 cell2</td>
+<td> row1 cell3</td>
+</tr>
+<tr>
+<td> row2 cell2</td>
+<td> row2 cell3</td>
+</tr>
+<tr>
+<td colspan="3">row3 cell1</td>
+</tr>
+</table>
+<a href="mailto:surya.suryaa.a1@gmail.com">Send email</a>
+</noframe>
+</frameset>
+</body>
+</html>
